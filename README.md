@@ -1,1 +1,1 @@
-# Javascr-pt-SaatveKars-lama
+# Javascript-SaatveKarşılama
